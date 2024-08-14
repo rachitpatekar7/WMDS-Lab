@@ -1,3 +1,7 @@
+# Title: Simple TCL script to create wireless Scenario.
+# Date: 7 August, 2024.
+# Author: Rachit Patekar.
+
 # Initialize variables
 set val(chan)           Channel/WirelessChannel    ;# Channel Type
 set val(prop)           Propagation/TwoRayGround   ;# Radio-propagation model
